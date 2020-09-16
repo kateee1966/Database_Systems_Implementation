@@ -1,8 +1,8 @@
 # Database_Systems_Implementation
 Glossary:
-DBMS : DataBase Management System ... software system to support database manipulation.
-RDBMS : Relational DBMS ... the most popular style of DBMS (refers to underlying data model) .
-SQL : Structured Query Language ... the ANSI standard language for manipulating RDBMSs.
+1. DBMS : DataBase Management System ... software system to support database manipulation.
+2. RDBMS : Relational DBMS ... the most popular style of DBMS (refers to underlying data model) .
+3. SQL : Structured Query Language ... the ANSI standard language for manipulating RDBMSs.
 
 should be able to:
 1. develop accurate, non-redundant data models;
